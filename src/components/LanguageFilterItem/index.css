@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.item-language-text {
+  background: none;
+  border: none;
+  color: #0f172a;
+  font-size: 13px;
+  font-family: 'roboto';
+}
+.list-item-language {
+  list-style-type: none;
+  margin-left: 20px;
+}
+.active-language-text {
+  border-radius: 8px;
+  border: 1px solid #0284c7;
+  padding: 4px;
+  color: #0284c7;
+  font-weight: bold;
+}

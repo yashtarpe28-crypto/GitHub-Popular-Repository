@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.list-repos-item-container {
+  background: #f8f8ff;
+  width: 250px;
+  border-radius: 10px;
+  padding: 12px;
+  list-style-type: none;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.avatar-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  align-self: center;
+}
+.list-imgs {
+  height: 15px;
+  width: 15px;
+  margin-bottom: 5px;
+  margin-right: 14px;
+}
+.text-repos-data-heading {
+  color: #e73959;
+  font-size: 18px;
+  font-family: 'roboto';
+  align-self: center;
+}
+.text-repos-description-data {
+  color: #1e293b;
+  font-size: 14px;
+  font-family: 'roboto';
+  margin: 0px;
+  margin-bottom: 5px;
+}
+.count-container {
+  display: flex;
+  margin-left: 50px;
+}

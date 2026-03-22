@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.githubpopular-repos-container {
+  background-color: #ffffff;
+  height: 100vh;
+}
+.text-popular {
+  color: #0f172a;
+  font-size: 28px;
+  font-family: 'Lobster';
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.language-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.repo-data-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.repo-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.failure-view-img {
+  height: 300px;
+  width: 300px;
+}
+.failure-heading {
+  font-size: 29px;
+  font-family: 'Lobster';
+  font-weight: bold;
+  color: #1e293b;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loader-view{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
